@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 this is file 3sfsdfs
+=======
+this is file 3
+added some more content
+>>>>>>> Stashed changes
